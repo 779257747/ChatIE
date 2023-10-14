@@ -7,7 +7,7 @@ import openai
 import time
 
 df_access = [
-    ('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')
+    ('sk-abcd')
 ]
 
 df_ret = {
